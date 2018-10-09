@@ -54,6 +54,8 @@ Clarified in the text.
 
 11. Maybe for each section here, describe briefly what they actually mean? People not familiar with software might not know, for example, what documentation actually is. Would help this paper appeal to a wider audience.
 
+> We updated terms that were not clear in the section.
+
 ## Software review as a service
 
 12. What do you mean by ‘the review process is fully open’ in this regard? There are a lot of potential interpretations for this: https://f1000research.com/articles/6-588/v2 (this issue again on page 6, line 13).
@@ -63,6 +65,8 @@ Clarified in the text.
 ## Advantages and limitations
 
 13. Page 6, lines 46-49, I have pretty much no idea what any of these things are. I think given that you are trying to make the case that software sustainability, and its advantages, are useful for the wider research community, being careful to explain any specialist terms like this is important for accessibility.
+
+> > We updated terms that were not clear in the section.
 
 ## Incentives
 
