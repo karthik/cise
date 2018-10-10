@@ -28,7 +28,7 @@
 
 6. Page 2, Line 44: I think these are just collectively known as ‘The Carpentries’ now? Also, the Open Science MOOC (which I run) is working on training students/researchers more on these things too (see eg here), which might be worth mentioning. I’m obviously biased..
 
-> The reviewer is correct in that the umbrella organization is known as The Carpentries. However the workshops are still distinctly offered as software and data carpentry and our focus is on those efforts. While we appreciate additional suggestions for training programs to mention, the two distinct types of courses we mention (university and non-university) serve to make the point. 
+> The reviewer is correct in that the umbrella organization is known as The Carpentries - fixed. While we appreciate additional suggestions for training programs to mention, the two distinct types of courses we mention (university and non-university) serve to make the point. 
 
 7. Page 2, Line 54: Who is ‘us’?
 
